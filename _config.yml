@@ -27,7 +27,7 @@ author:
   name             : "Randika Nonis"
   pronouns         : # example: "she/her"  
   bio              : "Research is a systematic process that uses creativity to carefully study a subject to discover new knowledge."
-  location         : "Earth"
+  location         : "Auckland, New Zealand"
   employer         : "University of Colombo, ICL Auckland"
   uri              : # URL
   email            : "randika.nonis@gmail.com" 
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://nz.linkedin.com/in/randikanonis"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
